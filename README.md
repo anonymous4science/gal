@@ -1,5 +1,5 @@
-# Learning to Model Remainder in Supervised Learning
-Code for project: "Learning to Model Remainder in Supervised Learning". 
+# Learning to Minimize Remainder in Supervised Learning
+Code for project: "Learning to Minimize Remainder in Supervised Learning". 
 
 ## Requirements and Environment
 
